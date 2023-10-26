@@ -10,3 +10,7 @@ h1{
     border: 2px solid blue;
     margin: 10px;
 }
+
+li{
+    list-style:none;
+}
