@@ -2,6 +2,7 @@ body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    background-color:blanchedalmond;
 }
 
 h1{
@@ -13,4 +14,10 @@ h1{
 
 li{
     list-style:none;
+}
+
+img{
+    border: 2px dotted red;
+    margin: 8px;
+    padding: 8px;
 }
