@@ -21,3 +21,19 @@ img{
     margin: 8px;
     padding: 8px;
 }
+
+.section{
+    background-color: white;
+    margin: 20px;
+}
+
+.home-container{
+    display: flex;
+    justify-content: center;
+}
+.home-list{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    width: 500px;
+}
